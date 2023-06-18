@@ -7,7 +7,13 @@ IQ low, $t=6000 ms$:
 IQ high, $t=6000 ms$:
 ![figure.\label{pic2}](pic2.png)
 
-![figure.\label{pic2}](pic2.gif)
+IQ low, $t=0-8000 ms$
+
+![figure.\label{anim1}](pic1.gif)
+
+IQ low, $t=0-8000 ms$
+
+![figure.\label{anim2}](pic2.gif)
 
 ## References
 
