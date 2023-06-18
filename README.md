@@ -1,17 +1,17 @@
 # ERD_maps_2001
 ERD maps and animated maps, low vs. high IQ. (see Neubauer et al., 2002)
 
-IQ low, $t=6000 ms$:
+IQ low @ $t=6000 ms$:
 ![figure.\label{pic1}](pic1.png)
 
-IQ high, $t=6000 ms$:
+IQ high @ $t=6000 ms$:
 ![figure.\label{pic2}](pic2.png)
 
 IQ low, $t=0-8000 ms$
 
 ![figure.\label{anim1}](pic1.gif)
 
-IQ low, $t=0-8000 ms$
+IQ high, $t=0-8000 ms$
 
 ![figure.\label{anim2}](pic2.gif)
 
