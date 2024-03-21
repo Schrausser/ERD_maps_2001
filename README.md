@@ -1,5 +1,9 @@
 # ERD_maps_2001
-ERD maps and animated maps, *low* vs. *high* IQ (see Neubauer et al., 2002).
+ERD maps and animated maps, *low* vs. *high* IQ, where 
+
+$$ERD=\frac{\mu V^2_R-\mu V^2_A}{\mu V^2_R}100,$$
+
+see Neubauer et al. (2002).
 
 IQ *low* @ $t=6000 ms$:
 
