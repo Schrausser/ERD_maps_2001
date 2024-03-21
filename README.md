@@ -1,7 +1,7 @@
 # ERD_maps_2001
 ERD maps and animated maps, *low* vs. *high* IQ, where 
 
-$$ERD=\frac{\mu V^2_R-\mu V^2_A}{\mu V^2_R}100,$$
+$$ERD=\frac{\mu V^2_R-\mu V^2_A}{\mu V^2_R}⋅100,$$
 
 with *alpha power* $\mu V^2$ from the *reference* interval $R$ and activity *interval* $A$, see Neubauer et al. (2002).
 
