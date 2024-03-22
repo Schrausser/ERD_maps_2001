@@ -13,11 +13,11 @@ IQ *high* @ $t=6000 ms$:
 
 ![figure.\label{pic2}](Folie49high.JPG)
 
-IQ *low*, $t=0-8000 ms$
+IQ *low*, $t=0-8000 ms$:
 
 ![figure.\label{anim1}](pic1.gif)
 
-IQ *high*, $t=0-8000 ms$
+IQ *high*, $t=0-8000 ms$:
 
 ![figure.\label{anim2}](pic2.gif)
 
