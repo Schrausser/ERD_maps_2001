@@ -29,4 +29,6 @@ IQ *high*, $t=0-8000 ms$:
 
 ## References
 
-Neubauer, A., Fink, A., & Schrausser, D. G. (2002). Intelligence and neural efficiency: The influence of task content and sex on brain IQ relationship. *Intelligence, 30*, 515-536. [DOI: 10.1016/S0160-2896(02)00091-0](https://doi.org/10.1016/S0160-2896(02)00091-0)
+Neubauer, A., Fink, A., & Schrausser, D. G. (2002). Intelligence and neural efficiency: The influence of task content and sex on brain IQ relationship. *Intelligence, 30*, 515-536. [DOI:10.1016/S0160-2896(02)00091-0](https://doi.org/10.1016/S0160-2896(02)00091-0)
+
+Schrausser, D. G. (2000). Spectral and Coherence Analysis: Algorithms. [DOI:10.13140/RG.2.2.28637.90083](http://doi.org/10.13140/RG.2.2.28637.90083)
