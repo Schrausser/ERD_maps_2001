@@ -5,7 +5,7 @@ $$\\% ERD=\frac{\mu V^2_R-\mu V^2_A}{\mu V^2_R}⋅100,$$
 
 with *alpha power* $\mu V^2$ from the *reference* interval $R$ and *activity* interval $A$, see Neubauer et al. (2002).
 
-Where *power* $P_x$ within given frequency $f$, with upper *alpha* band between $$ in $\mathbb C$ is defined by
+Where *power* $P_x$ within given frequency $f$, with upper *alpha* band between $10.70Hz-12.69 Hz$ in $\mathbb C$ is defined by
 
 $$P_x(f)=\Re (a_x)^2+\Im (a_x)^2,$$
 
