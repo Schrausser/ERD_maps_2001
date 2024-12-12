@@ -9,7 +9,7 @@ Where *power* $P_x$ within given frequency $f$, with upper *alpha* band between 
 
 $$P_x(f)=\Re (a_x)^2+\Im (a_x)^2,$$
 
-c.f. Schrausser (2000).
+c.f. Schrausser (2000) and Schrausser & Neubauer (2024).
 
 IQ *low* @ $t=6000 ms$:
 
@@ -32,3 +32,5 @@ IQ *high*, $t=0-8000 ms$:
 Neubauer, A., Fink, A., & Schrausser, D. G. (2002). Intelligence and neural efficiency: The influence of task content and sex on brain IQ relationship. *Intelligence, 30*, 515-536. [DOI:10.1016/S0160-2896(02)00091-0](https://doi.org/10.1016/S0160-2896(02)00091-0)
 
 Schrausser, D. G. (2000). *Spectral and Coherence Analysis: Algorithms*. [DOI:10.13140/RG.2.2.28637.90083](http://doi.org/10.13140/RG.2.2.28637.90083)
+
+Schrausser, D. G., & Neubauer, A. C. (2024). P13461 Instruction Movie: Installation of EEG Cap and Electrodes. *Zenodo, December 10, 2024*. [DOI:10.5281/zenodo.14364000](https://doi.org/10.5281/zenodo.14364000)
