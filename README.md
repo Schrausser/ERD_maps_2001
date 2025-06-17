@@ -3,13 +3,13 @@ ERD maps and animated maps, *low* vs. *high* IQ, where
 
 $$\\% ERD=\frac{\mu V^2_R-\mu V^2_A}{\mu V^2_R}⋅100,$$
 
-with *alpha power* $\mu V^2$ from the *reference* interval $R$ and *activity* interval $A$, see Neubauer et al. (2002).
+with *alpha power* $\mu V^2$ from the *reference* interval $R$ and *activity* interval $A$, see Neubauer et al. ([2002](https://doi.org/10.1016/S0160-2896(02)00091-0)).
 
 Where *power* $P_x$ within given frequency $f$, with upper *alpha* band between $10.70-12.69 Hz$ in $\mathbb C$ is defined by
 
 $$P_x(f)=\Re (a_x)^2+\Im (a_x)^2,$$
 
-c.f. Schrausser (2000) and Schrausser & Neubauer (2024).
+c.f. Schrausser ([2000](http://doi.org/10.13140/RG.2.2.28637.90083)) and Schrausser and Neubauer ([2024](https://doi.org/10.5281/zenodo.14364000)).
 
 IQ *low* @ $t=6000 ms$:
 
