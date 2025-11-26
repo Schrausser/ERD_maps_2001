@@ -1,5 +1,5 @@
 # ERD_maps_2001
-ERD maps and animated maps, *low* vs. *high* IQ, where 
+ERD maps (s. Fig. 1 and Fig. 2) and animated maps (s. Fig. 3 and Fig. 4), *low* vs. *high* IQ, where 
 
 $$\\% ERD=\frac{\mu V^2_R-\mu V^2_A}{\mu V^2_R}⋅100,$$
 
@@ -11,19 +11,19 @@ $$P_x(f)=\Re (a_x)^2+\Im (a_x)^2,$$
 
 c.f. Schrausser ([2000](http://doi.org/10.13140/RG.2.2.28637.90083)) and Schrausser and Neubauer ([2024](https://doi.org/10.5281/zenodo.14364000)).
 
-IQ *low* @ $t=6000 ms$:
+**Figure 1.** IQ *low* @ $t=6000 ms$.
 
 ![figure.\label{pic1}](Folie49low.JPG)
 
-IQ *high* @ $t=6000 ms$:
+**Figure 2.** IQ *high* @ $t=6000 ms$.
 
 ![figure.\label{pic2}](Folie49high.JPG)
 
-IQ *low*, $t=0-8000 ms$:
+**Figure 3.** IQ *low*, $t=0-8000 ms$.
 
 ![figure.\label{anim1}](pic1.gif)
 
-IQ *high*, $t=0-8000 ms$:
+**Figure 4.** IQ *high*, $t=0-8000 ms$.
 
 ![figure.\label{anim2}](pic2.gif)
 
