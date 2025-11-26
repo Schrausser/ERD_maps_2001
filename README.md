@@ -9,7 +9,7 @@ Where *power* $P_x$ within given frequency $f$, with upper *alpha* band between 
 
 $$P_x(f)=\Re (a_x)^2+\Im (a_x)^2,$$
 
-c.f. Schrausser ([2000](http://doi.org/10.13140/RG.2.2.28637.90083)) and Schrausser and Neubauer ([2024](https://doi.org/10.5281/zenodo.14364000)).
+c.f. Schrausser ([2000](http://doi.org/10.13140/RG.2.2.28637.90083)), also Schrausser and Neubauer ([2024](https://doi.org/10.5281/zenodo.14364000)).
 
 **Figure 1.** IQ *low* @ $t=6000 ms$.
 
